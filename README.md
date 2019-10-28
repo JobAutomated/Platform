@@ -1,7 +1,7 @@
 # Job Automated Platform
 
 <!-- wp:paragraph -->
-<p>We are building a decentralized AI-company with a goal to automating office jobs.</p>
+<p>We are building a decentralized AI-company with a goal to automating office jobs. Robotic Process Automation powered by machine learning.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
