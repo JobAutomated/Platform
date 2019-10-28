@@ -22,9 +22,10 @@
 
 Below are the most recent tasks to take.
 
-Social media extraction:
+## Social media extraction
 
 1) Build a Medium crawler who extracts all texts (title, text, author) from a given tag. VALUE: 10 JATs
-2) Build a Twitter crawler who extracts all tweets with a given hashtag from a certain period of time. VALUES: 5 JATs
-3) Build a GitHub crawler who finds all 
-4) Build an AngelList crawler who finds all companies in a particular niche (i.e. fintechs or AI-startups) 
+2) Build a Twitter crawler who extracts all tweets with a given hashtag from a certain period of time. VALUE: 5 JATs
+3) Build a GitHub crawler who finds all repositories with an implementation of a particular technique (e.g. random forest). VALUE: 10 JATs
+4) Build an AngelList crawler who finds all companies in a particular niche (i.e. fintechs or AI-startups). VALUE: 7 JATs 
+
